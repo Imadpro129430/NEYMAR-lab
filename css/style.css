@@ -1,0 +1,25 @@
+body{
+    background-color: #3A3A3A;
+}
+div.contenue{
+    background-color: #3A3A3A;
+    border: 2px solid #e700b5;
+    margin-left: 25%;
+    margin-right: 25%;
+    color:white;
+}
+h3.textedepresentation{
+    display: block;
+    text-align: center;
+}
+div.descriptiondesimages{
+    display: flex;
+    justify-content: space-between;
+    height: 220px;
+    width: auto;
+}
+h1.logos{
+    text-align: center;
+    font-size: large;
+}
+
